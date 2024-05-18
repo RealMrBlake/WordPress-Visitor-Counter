@@ -44,4 +44,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Authors
 
-- **Louis-Alexander Kerst** - *Initial work* - [louis.alexander-kerst.de](https://louis.alexander-kerst.de)
+- **Louis-Alexander Kerst** - *Initial work* - [louis.alexander-kerst.de](https://Luxe-Commerce.com)
