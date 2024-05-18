@@ -18,7 +18,7 @@ A WordPress plugin to count the number of website visitors, determine their orig
    Download the plugin as a ZIP file or clone the repository:
 
    ```sh
-   git clone https://github.com/yourusername/visitor-counter.git
+   git clone https://github.com/RealMrBlake/visitor-counter.git
    ```
 
 2. **Upload the Plugin**
